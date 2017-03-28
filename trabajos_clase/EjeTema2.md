@@ -15,61 +15,61 @@
  |Data Center| 99,99%       |
  | ISP       | 95%          |
     
-    ##### Disponibilidad: 59,866% 
+ ##### Disponibilidad: 59,866% 
     
-    > Con dos elementos en cada subsistema:
+ > Con dos elementos en cada subsistema:
+ 
+ | Component | Availibility |
+ | :-------: | :----------: |
+ | Web       | 97,75%       |
+ | APP       | 99%          |
+ | D.B       | 99,9999%     |
+ | DNS       | 99,96%       |
+ | Firewall  | 97,75%       |
+ | Switch    | 99,99%       |
+ |Data Center| 99,99%       |
+ | ISP       | 99,75%       |
     
-    | Component | Availibility |
-    | :-------: | :----------: |
-    | Web       | 97,75%       |
-    | APP       | 99%          |
-    | D.B       | 99,9999%     |
-    | DNS       | 99,96%       |
-    | Firewall  | 97,75%       |
-    | Switch    | 99,99%       |
-    |Data Center| 99,99%       |
-    | ISP       | 99,75%       |
+ ##### Disponibilidad: 94,30% 
     
-    ##### Disponibilidad: 94,30% 
+ > Con tres elementos en cada subsistema:
     
-    > Con tres elementos en cada subsistema:
+ | Component | Availibility |
+ | :-------: | :----------: |
+ | Web       | 99,6625%     |
+ | APP       | 99,9%        |
+ | D.B       | 99,9999999%  |
+ | DNS       | 99,9992%     |
+ | Firewall  | 99,6625%     |
+ | Switch    | 99,9999%     |
+ |Data Center| 99,999999%   |
+ | ISP       | 99,9875%     |
     
-    | Component | Availibility |
-    | :-------: | :----------: |
-    | Web       | 99,6625%     |
-    | APP       | 99,9%        |
-    | D.B       | 99,9999999%  |
-    | DNS       | 99,9992%     |
-    | Firewall  | 99,6625%     |
-    | Switch    | 99,9999%     |
-    |Data Center| 99,999999%   |
-    | ISP       | 99,9875%     |
-    
-    ##### Disponibilidad: 99,2135% 
+ ##### Disponibilidad: 99,2135% 
     
 ## Ejercicio 2:
-    Buscar frameworks y librerias para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. 
+ Buscar frameworks y librerias para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. 
 
-    > Symfony
-    > Django
-    > Flask
-    > Sinatra
+ > Symfony
+ > Django
+ > Flask
+ > Sinatra
     
 ## Ejercicio 3:
-    Como analizar el nivel de carga de cada uno de los subsistemas en el servidor?
+ Como analizar el nivel de carga de cada uno de los subsistemas en el servidor?
     
-    > Nagios
-    > Munin
-    > Cacti
+ > Nagios
+ > Munin
+ > Cacti
 
 ## Ejercicio 4:
-    Ejemplos de balanceadores software y hardware (productos comerciales).
+ Ejemplos de balanceadores software y hardware (productos comerciales).
     
-    > balanceadores software:
-        Haproxy
-        Nginx
-        Pen
+ > balanceadores software:
+    Haproxy
+    Nginx
+    Pen
     
-    > Balanceadores Hardware:
-        LoadMaster 2600
-        Barracuda Load Balancer 640
+ > Balanceadores Hardware:
+    LoadMaster 2600
+    Barracuda Load Balancer 640
