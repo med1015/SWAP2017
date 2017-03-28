@@ -2,18 +2,18 @@
 
     Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento :
     
-    > Con un elemento en cada subsistema:
+ > Con un elemento en cada subsistema:
     
-    | Component | Availibility |
-    | :-------: | :----------: |
-    | Web       | 85%          |
-    | APP       | 90%          |
-    | D.B       | 99,9%        |
-    | DNS       | 98%          |
-    | Firewall  | 85%          |
-    | Switch    | 99%          |
-    |Data Center| 99,99%       |
-    | ISP       | 95%          |
+ | Component | Availibility |
+ | :-------: | :----------: |
+ | Web       | 85%          |
+ | APP       | 90%          |
+ | D.B       | 99,9%        |
+ | DNS       | 98%          |
+ | Firewall  | 85%          |
+ | Switch    | 99%          |
+ |Data Center| 99,99%       |
+ | ISP       | 95%          |
     
     ##### Disponibilidad: 59,866% 
     
