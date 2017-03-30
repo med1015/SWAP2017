@@ -24,7 +24,7 @@ tal y como se puede ver en la siguiente imagen.
 ### paso1:
 Mediante ssh-keygen vamos a generar la clave con la opción -t para elegir el tipo de clave tal y como se puede ver en la siguiente imagen:
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica2/ssh_keygen.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica2/ssh-keygen.png)
 
 ### paso2 :
 Ahora vamos a copiar la clave generada en la maquina a la que queremos acceder con el comando:
