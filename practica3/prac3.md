@@ -22,14 +22,14 @@ tal y como se puede ver en la siguiente imagen.
 
 ### resultado para la configuracion con pesos diferentes "weight=1" para la maquina1 y "weight=2" para la maquina2. 
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica3/balanceWeight.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica3/BalanceWeight.png)
 
 ## configuracion del balanceador Nginx para distribuir las peticiones a los dos servidores apaches poniendo restriccion en la IP :
 
 ![imagen](https://github.com/med1015/SWAP2017/blob/master/practica3/configBalanceIpHash.png)
 
 ### resultado para la configuracion con IP_HASH
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica3/balanceIpHash.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica3/BalanceIpHash.png)
 
 ## De la misma forma vamos a crear una nueva maquina y configurar el balanceador Haproxy para distribuir las peticiones a los dos servidores apaches, con las condiciones por defecto :
 tal y como se puede ver en la siguiente imagen.
