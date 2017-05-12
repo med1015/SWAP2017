@@ -10,7 +10,7 @@ Para configurar el enrutamiento del tráfico de un servidor podemos usar la herr
 ### WINDOWS :
 Para configurar el enrutamiento del tráfico de un servidor podemos usar la herramienta NetRouteView que tiene interfaz grafica bastante intuitiva de usar tal y como se puede ver en la siguiente imagen:
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/trabajo_clase/netrouteview.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/trabajos_clase/netrouteview.png)
 
 # Ejercicio 3:
 
