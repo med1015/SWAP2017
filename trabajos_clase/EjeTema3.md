@@ -12,7 +12,7 @@ Para configurar el enrutamiento del tráfico de un servidor podemos usar la herr
 
 ![imagen](https://github.com/med1015/SWAP2017/blob/master/trabajos_clase/netrouteview.png)
 
-# Ejercicio 3:
+# Ejercicio 2:
 
 ## Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes.
 
