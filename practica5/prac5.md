@@ -44,14 +44,14 @@ A continuacion vamos a crear el usuario esclavo en la maquina 1 y darle los priv
 
 Ahora volvemos a la máquina 2 'esclava', entramos en mysql y le damos los datos del maestro.
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica5/userEscalvo.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica5/userEsclavo.png)
 
 Ahora nos aseguramos de que todo funciona perfectamente y que el esclavo
 no tiene ningún problema para replicar la información, nos vamos al esclavo y con la siguiente orden:
 mysql> SHOW SLAVE STATUS\G
 revisamos si el valor de la variable “Seconds_Behind_Master” es distinto de “null”. En ese caso, todo estará funcionando perfectamente.
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica5/escalvoSeconds.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica5/esclavoSeconds.png)
 
 la siguiente imagen nos muestra que la base de datos ha sido replicada de forma automatica con exito.
 
