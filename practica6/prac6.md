@@ -44,7 +44,7 @@ Ahora que tenemos nuestro id podemos anadir la linea correspondiente en nuesrto 
 
 Ahora reiniciamos la maquina y comprobamos que el montaje se hace de forma automatica:
 
-![imagen](https://github.com/med1015/SWAP2017/blob/master/practica6/comprobarMdadmDespues.png)
+![imagen](https://github.com/med1015/SWAP2017/blob/master/practica6/comprobarMountDespues.png)
 
 ## Simular un fallo en uno de los discos del RAID (mediante comandos con el mdadm), retirarlo “en caliente”, comprobar que se puede acceder a la información que hay almacenada en el RAID, y por último, añadirlo al conjunto y comprobar que se reconstruye correctamente.
 
